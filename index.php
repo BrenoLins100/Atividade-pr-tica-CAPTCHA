@@ -27,7 +27,7 @@
     <div class="container">
         <form method="POST" class="form-group">
         <div class='toast toast-success'>ACESSO PERMITIDO</div>
-        <div class='toast toast-error'>ACESSO NEGADO</div>
+        <div class='toast toast-error'>ACESSO NEGADO, COMPLETE O CAPTCHA</div>
 
             
             <label for="email" class="form-label"></label>
